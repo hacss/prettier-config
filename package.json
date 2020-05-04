@@ -1,0 +1,25 @@
+{
+  "name": "@hacss/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration for Hacss projects",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"No tests needed here\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacss/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "hacss",
+    "format"
+  ],
+  "author": "Nick Saunders",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hacss/prettier-config/issues"
+  },
+  "homepage": "https://hacss.io"
+}
